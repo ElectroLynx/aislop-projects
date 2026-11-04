@@ -8,3 +8,4 @@ les regles de ces discords s'appliquent aussi ici
 
 Makers hub by Aywen : https://discord.gg/DkCZKz2f6m
 lien vers Baudo BOYZ : https://discord.gg/WpQ6UpGb59
+bien evidemment les code des projets qui sont ici ont été mis avec l'accord de celui qui a fait les prompt
