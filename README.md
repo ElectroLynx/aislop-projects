@@ -18,6 +18,11 @@ Tous les codes des projets présentés ici ont été publiés avec l'accord de l
 
 - Les serveurs Discord :
 
-MakersHub by Aywen : [https://discord.gg/DkCZKz2f6m](discord.gg)
+MakersHub by Aywen : [https://discord.gg/DkCZKz2f6m]
 
-Baudo BOYZ : [https://discord.gg/WpQ6UpGb59](discord.gg)
+Baudo BOYZ : [https://discord.gg/WpQ6UpGb59]
+
+# aislop-projects spreadsheet
+|Nom|Lien vers le site|Lien vers le GitHub (optionnel)|
+|---|---|---|
+|guide_vibecode|https://electrolynx.github.io/guide_vibecode|https://www.github.com/ElectroLynx/guide_vibecode|
